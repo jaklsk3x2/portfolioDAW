@@ -1,1 +1,1 @@
-[Diario unidad 1](.Diario/UT1/)
+[Diario unidad 1](./Diario/UT1/)
