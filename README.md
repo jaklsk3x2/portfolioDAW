@@ -1,1 +1,1 @@
-[Diarios](.Diario.md/)
+[Diarios](Diario.md/)
